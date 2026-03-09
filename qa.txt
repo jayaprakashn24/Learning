@@ -1,0 +1,5 @@
+this is the qa file code to test the stage server 
+smoke testing 
+sanity testing 
+regression testing 
+
